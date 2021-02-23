@@ -117,7 +117,7 @@ header{
 /*Req 7a*/
 .about, .method, .client, .contacts{
   /*Your Code Here*/
-  grid-column: 2 / 4;
+  grid-column: 2 / span 2;
 }
 
 /*Req 8a, 8b, and 8c*/
