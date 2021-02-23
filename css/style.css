@@ -123,7 +123,7 @@ header{
 /*Req 8a, 8b, and 8c*/
 .about-image, .method-image, .client-image, .contact-image{
   /*Your Code Here*/
-  grid-column: 1 / span 3;
+  grid-column: 1 / span all;
   max-height: 650px;
   overflow: hidden;
 }
